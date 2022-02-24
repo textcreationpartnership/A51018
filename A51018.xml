@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Davis his case, upon the appal [sic] of Mr. Thomas Skinner</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51018</idno>
+            <idno type="STC">Wing M2261</idno>
+            <idno type="STC">ESTC R41526</idno>
+            <idno type="EEBO-CITATION">31355503</idno>
+            <idno type="OCLC">ocm 31355503</idno>
+            <idno type="VID">110503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51018)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110503)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1747:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Davis his case, upon the appal [sic] of Mr. Thomas Skinner</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1671]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Contracts --  Great Britain.</term>
+               <term>Debtor and creditor.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:110503:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <head>Mr. DAVIS His CASE, Upon the APPAL of Mr. THOMAS SKINNER.</head>
+            <p>ONe <hi>George Walters</hi> became indebted to <hi>Thomas</hi> and <hi>Daniel Skinner,</hi>
+               <note place="margin">1655.</note> for Fraight of Soldiers, <hi>&amp;c.</hi> upwards of 2000 <hi>l.</hi> whereof 5 twelfth parts were due to <hi>Daniel,</hi> and the reſt to <hi>Thomas;</hi> and <hi>Thomas</hi> aſſigned the Debt to <hi>Daniel,</hi> as a Security for Moneys due from him to <hi>Daniel,</hi> and Im<g ref="char:EOLhyphen"/>powers him Recover, or Compound the Debt.</p>
+            <p>Afterwards,<note place="margin">1657.</note> 
+               <hi>Daniel</hi> comes to an Agreement with <hi>Walters,</hi> concerning his ſaid Debt; whereof <hi>Walters,</hi> in ſatisfaction of his whole Debt, was to convey to <hi>Daniel,</hi> a third part of ſuch Lands in <hi>Ireland</hi> as ſhould be aſſigned by <hi>Cromwell;</hi> which Lands were in the whole, to be of the value of 5638 <hi>l.</hi> 7 <hi>s.</hi> 5 <hi>d.</hi> the third part whereof, came to 1879 <hi>l.</hi> 7 <hi>s.</hi> 5 <hi>d.</hi> and if no ſuch aſſignment ſhould be made by <hi>Cromwel</hi> to <hi>VValters;</hi> then <hi>Daniel</hi> was to have a third part of ſuch other Satisfaction, as <hi>Walters</hi> ſhould receive from <hi>Cromwel,</hi> in ſatisfaction of his Demands from him; And <hi>Walters</hi> gives two Judgements, one in <hi>England,</hi> the other in <hi>Ireland;</hi> Each of them of 4000 <hi>l.</hi> Defeazanced for performance of the ſaid Agreement.</p>
+            <p>Afterwards, <hi>Daniel</hi> takes out an Execution upon the Judgement in <hi>Ireland;</hi> Upon which, the Sheriff of <hi>Cork</hi> ſeizeth Land in <hi>Ireland,</hi> which <hi>VValters</hi> held by Leaſe of the Earl of <hi>Angleſey,</hi> and by virtue of a Writ of <hi>Vendiconis Exponae,</hi> Sells the ſame to <hi>Daniel</hi> for 1000 <hi>l.</hi> part of the ſaid Debt: And thereupon, in <hi>June</hi> 1662, <hi>VValters</hi> and <hi>Daniel</hi> came to an agreement, that <hi>Daniel</hi> ſhould make a Leaſe of thoſe Lands to Mr. <hi>Davis,</hi> in Truſt for <hi>VValters</hi> for 12 years, from <hi>Midſomer</hi>-day 1664, at 150 <hi>l. per Annum.</hi> And if <hi>VValters</hi> ſhould at any time within the ſaid 12 years pay to <hi>Daniel</hi> 2200 <hi>l.</hi> (which was agreed to be the whole Debt due from <hi>VValters</hi>) then <hi>Daniel</hi> was to re-convey the ſaid Leaſe to <hi>VValters,</hi> and to diſcount to him 18 <hi>l. per Annum,</hi> for ſo long time as <hi>Davis</hi> ſhould pay his Rent.</p>
+            <p>
+               <hi>Daniel</hi> makes a Leaſe to Mr. <hi>Davis</hi> accordingly: But <hi>Daniel</hi> having before let thoſe Lands to Mr. <hi>Manley</hi> who was then in poſſeſſion, the ſaid <hi>Manley</hi> kept <hi>Walters</hi> out of poſſeſſion, nevertheleſs Mr. <hi>Davis</hi> was Sued for he Rent, and was compelled to pay the ſame, and alſo to diſcharge ſeveral Precedent In<g ref="char:EOLhyphen"/>cumbrances, whereby; and for Money he had lent to <hi>VValters,</hi> He was in Diſburſe ſeveral Hundred pounds; And thereupon <hi>Davis</hi> pay'd the whole Debt to <hi>Daniel,</hi> together with His Charges: And <hi>Daniel</hi> hath accounted to the ſaid <hi>Thomas</hi> for his Seven Twelfth parts thereof.</p>
+            <p>All which appearing at the Hearing of the Cauſe in the Court of <hi>Exchequer,</hi>
+               <note place="margin">1671.</note> that Court declared, that Mr. <hi>Davis</hi> ought not to be further troubled concern<g ref="char:EOLhyphen"/>ing the ſaid <hi>Thomas</hi> his Bill, but that he ſhould be left out of the ac<g ref="char:EOLhyphen"/>count.</p>
+            <p>From which Order the ſaid <hi>Thomas</hi> hath appealed, endeavouring thereby to compel <hi>Davis</hi> to pay the ſame Moneys which he hath paid to <hi>Daniel,</hi> for the ſaid Debt, although <hi>Daniel</hi> hath charged himſelf in the accompt before the Auditor, with <hi>Thomas</hi>'s proportion of the ſaid Moneys.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
